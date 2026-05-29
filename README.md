@@ -29,33 +29,7 @@ Enhancing Sports Action Recognition With Temporal Saliency and Squeeze-Excitatio
 
 The Visual Computer
 
----
-
-## Repository Structure
-
-```text
-Sports-Action-Recognition-Temporal-Saliency-SE
-│
-├── train_sports_action_recognition.py
-├── requirements.txt
-├── README.md
-│
-├── datasets
-│   └── dataset_download_link.txt
-│
-├── outputs
-│   ├── figures
-│   ├── tables
-│   └── models
-│
-├── sample_results
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── precision_recall_curve.png
-│   ├── model_accuracy.png
-│   └── model_loss.png
-│
-└── LICENSE
+-
 ```
 
 ---
